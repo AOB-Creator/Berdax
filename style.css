@@ -1,0 +1,329 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,700;0,900;1,900&family=Roboto+Slab:wght@500;600;700;900&family=Roboto:wght@400;500;700;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+section{
+    height: 800vh;
+}
+
+.samp{
+    margin: 0 0 0 40px;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+} 
+
+.a5{
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(255, 255, 255, 0.815);
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+.ml{
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    text-transform: capitalize;
+    font-size: 15px;
+    padding: 0;
+}
+
+.b1{
+    background-color: transparent;
+    margin: 0 40px 0 0 ;
+    color: rgb(0, 0, 0);
+    border: 2px solid black;
+    color: rgb(0, 0, 0);
+    width: 120px;
+    height: 40px;
+}
+
+.a6{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    column-gap: 0px;
+    row-gap: 20px;
+}
+
+.a7{
+    margin: 100px 0 0 0;
+}
+
+.a8{
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1300px;
+    background-color: transparent;
+    height: 70vh;
+}
+
+.a9{
+    background-color: rgb(239, 239, 239);
+    height: 650vh;
+}
+
+.a11{
+    margin: 100px 0 0 0;
+}
+
+.a12{
+    margin: 100px 0 100px 0;
+}
+
+.a13{
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1300px;
+    background-color: transparent;
+    height: 90vh;
+}
+
+.g3{
+    background: url(./Скриншот\ 17-11-2021\ 15.28.10.png);
+    background-size: cover;
+    height: 100vh;
+}
+
+.g4{
+    margin: 230px 0 0 80px;
+}
+
+.g5{
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.g6{
+    margin: 60px 0 0 0;
+}
+
+.g7{
+    margin: 50px 0 0 0;
+}
+
+.g8{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    column-gap: 0px;
+    row-gap: 20px;
+}
+
+.g9{
+    margin: 60px 25% 60px;
+    background: url(https://static.tildacdn.com/tild6133-3964-4266-b230-616264303833/1.svg);
+    background-size: cover;
+    height: 47vh;
+    width: 47vh;
+}
+
+.g11{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    column-gap: 0px;
+    row-gap: 20px;
+}
+
+.g12{
+    margin: 20px 0 0 50px;
+}
+
+.g13{
+    margin: 60px 25% 60px;
+    background: url(https://static.tildacdn.com/tild3933-3239-4565-b961-356366626465/2.svg);
+    background-size: cover;
+    height: 47vh;
+    width: 50vh;
+}
+
+.g15{
+    margin: 60px 25% 60px;
+    background: url(https://static.tildacdn.com/tild3462-3637-4664-a139-643961356564/3.svg);
+    background-size: cover;
+    height: 47vh;
+    width: 55vh;
+}
+
+.g16{
+    margin: 60px 25% 60px;
+    background: url(https://static.tildacdn.com/tild3166-6162-4933-a630-633564333336/4.svg);
+    background-size: cover;
+    height: 47vh;
+    width: 55vh;
+}
+
+.g17{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    column-gap: 0px;
+    row-gap: 20px;
+}
+
+.g18{
+    display: grid;
+    grid-template-columns: 10% 80% 10%;
+    column-gap: 5px;
+    row-gap: 20px;
+}
+
+.g19{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    column-gap: 0px;
+    row-gap: 20px;
+}
+
+.g20{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    column-gap: 0px;
+    row-gap: 20px;
+}
+
+.g22{
+    background: url(https://thumb.tildacdn.com/tild3861-3433-4639-b334-316438616235/-/format/webp/land2png.png);
+    background-size: cover;
+    height: 80vh;
+}
+
+.g23{
+    background: url(https://thumb.tildacdn.com/tild6461-3063-4636-b937-666539663064/-/format/webp/store1png.png);
+    background-size: cover;
+    height: 80vh;
+}
+
+
+.p1{
+    font-size: 45px;
+}
+
+.p3{
+    font-size: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.p4{
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.p5{
+    margin: 70px 0 0 0;
+    font-size: 40px;
+}
+
+.p6{
+    margin: 15px 0 0 0;
+    font-size: 20px;
+}
+
+.p7{
+    margin: 15px 0 0 0;
+    font-size: 20px;
+}
+
+.p8{
+    margin: 100px 0 0 150px;
+    font-size: 80px;
+}
+
+.p9{
+    font-size: 38px;
+    margin: 40px 0 0 150px
+}
+
+.p10{
+    margin: 20px 0 0 150px;
+    font-size: 23px;
+}
+
+.p11{
+    font-size: 23px;
+    margin: 100px 0 0 0;
+}
+
+.p12{
+    font-size: 40px;
+    margin: 0 0 0 100px;
+}
+
+.p13{
+    font-size: 25px;
+    margin: 35px 0 0 100px;
+}
+
+.p14{
+    font-size: 18px;
+    margin: 90px 0 0 0;
+}
+
+.p15{
+    font-size: 35px;
+}
+
+.p16{
+    font-size: 25px;
+}
+
+.p17{
+    font-size: 20px;
+}
+
+.b2{
+    background-color: transparent;
+    border: 2px solid black;
+    height: 50px;
+    width: 120px;
+}
+
+.b3{
+    height: 50px;
+    width: 270px;
+    margin: 0 0 0 15px;
+    color: white;
+    background-color: coral;
+    border: 1px solid black;
+}
+
+.b4{
+    height: 50px;
+    width: 300px;
+    color: white;
+    margin: 0 40% 0 40%;
+    background-color: coral;
+    border: 1px solid black;
+}
+
+.samp1{
+    color: darkgoldenrod;
+}
+
+.xxx{
+    background: url(https://thumb.tildacdn.com/tild6433-6539-4937-b436-633062626261/-/format/webp/TYPO6png.png);
+    background-size: cover;
+    height: 80vh;
+    width: 150vh;
+}
+
+.xxxx{
+    background: url(https://thumb.tildacdn.com/tild3461-6234-4433-b339-346230343433/-/format/webp/graphicpng.png);
+    background-size: cover;
+    height: 80vh;
+    width: 150vh;
+}
